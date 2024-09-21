@@ -1,5 +1,4 @@
-### Hi there 👋
-
+"Code with Sunny" helps you learn programming languages like HTML, CSS,Tialwind CSS JavaScript, TypeScript, React, Next, Node & Express js plus mongoDB and more through tutorials and tips. Perfect for beginners and those looking to improve coding skills.
 <!--
 **Sunny-Janjua/sunny-janjua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
